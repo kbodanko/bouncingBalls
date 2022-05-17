@@ -3,7 +3,7 @@
 ## link: https://kbodanko.github.io/bouncingBalls/
 
 
-![game screen](https://github.com/kbodanko/bouncingBalls/blob/master/Screenshot%202022-05-18%20at%2000-24-05%20Bouncing%20balls.png)
+![game screen](https://github.com/kbodanko/bouncingBalls/blob/master/ScreenshotBouncing%20balls.png)
 
 ### control: WSAD
 
