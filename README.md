@@ -11,7 +11,7 @@
 Object-oriented programming
 
 **Project describe:**
-My first, simple game based on the MDM JavaScript course (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features). The white 'evil circle' must catch every balls - then game is over. Game control: WSAD.
+My first, simple game based on the MDM JavaScript course (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features). The white 'evil circle' must catch every balls - then game is won. Game control: WSAD.
 
 
 **Project objective:**
