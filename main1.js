@@ -141,8 +141,8 @@ Ball.prototype.update = function () {
     this.y += this.velY;
 };
 let balls = [];
-while (balls.length < 30) {
-    let size = random(10, 30);
+while (balls.length < 200) {
+    let size = random(10, 50);
     let ball = new Ball(random(0 + size, width - size),
         random(0 + size, height - size),
         random(-7, 7),
