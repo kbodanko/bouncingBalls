@@ -17,7 +17,7 @@ My first, simple game based on the MDN JavaScript course (https://developer.mozi
 **Project objective:**
 To test comprehension of JavaScript objects and object-oriented constructs and  to get some practice with using objects and object-oriented techniques in a real world context.
 
-**I learned and/or practised while writing the project**
+**I learned and/or practised while writing the project:**
 - use the DOM and manipulate elements
 - use the random function
 - create classes and constructors
