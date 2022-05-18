@@ -4,6 +4,9 @@
 
 
 ![game screen](https://github.com/kbodanko/bouncingBalls/blob/master/ScreenshotBouncing%20balls.png)
+![game screen](https://github.com/kbodanko/BigBangGame/blob/main/image%201.png)
+![game screen](https://github.com/kbodanko/BigBangGame/blob/main/image%202.png)
+
 
 ### control: WSAD
 
